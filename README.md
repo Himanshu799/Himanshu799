@@ -1,20 +1,20 @@
 # 👋 Hi, I'm **Himanshu Kashyap**
 
-Welcome to my GitHub! I'm an **MSc Advanced Computer Science** student at the **University of Strathclyde, Glasgow**, with a strong passion for **AI, Machine Learning, Deep Learning, Evolutionary Computation, and Full‑Stack Development**.
+Welcome to my GitHub profile. I am an **MSc Advanced Computer Science** student at the **University of Strathclyde, Glasgow**, with a strong focus on **Artificial Intelligence, Machine Learning, Deep Learning, Evolutionary Computation, and Full‑Stack Development**.
 
-I love building real-world applications, experimenting with neural architectures, and solving optimisation problems across finance and automation domains.
+I enjoy building practical systems, exploring neural architectures, and applying optimisation techniques to solve challenges in finance, automation, and software engineering.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 **B.Tech in Information Technology (Cloud Computing specialisation)** – Sikkim Manipal Institute of Technology
+* 🎓 **B.Tech in Information Technology (Cloud Computing Specialisation)** – Sikkim Manipal Institute of Technology
 * 💼 Currently working on:
 
-  * **LLM‑based autonomous task‑automation agents (LangChain)** for my MSc dissertation
-  * **AI for Finance & Evolutionary Computation** coursework
-  * **Mobile Fitness App** using Jetpack Compose + Room + Fitness APIs
-* 🔥 Strong skills in:
+  * Developing **LLM‑driven autonomous workflow agents** using LangChain for my MSc dissertation
+  * Coursework in **AI for Finance** and **Evolutionary Computation**
+  * A **mobile fitness application** built with Jetpack Compose, Room Database, and Fitness APIs
+* 🔧 Technical strengths include:
   **Python, R, Java, Kotlin, PyTorch, Keras, React.js, Next.js, LangChain, Jetpack Compose**
 * 📍 Based in **Glasgow, Scotland**
 
@@ -22,36 +22,36 @@ I love building real-world applications, experimenting with neural architectures
 
 ## 🧠 Core Interests
 
-* 🤖 **Deep Learning** (CNNs, LSTMs, ViTs, RL Agents)
-* 📈 **AI for Finance** (Trading strategies, GAs, GP, LSTMs)
-* 🧬 **Genetic Algorithms & Evolutionary Computation**
-* 🌐 **Full‑Stack Web Development** (React, Next.js)
-* 📱 **Android Development** (Kotlin, Jetpack Compose, Room)
-* 🛰️ **Space Tech & Automation** (Aligning research for NASA/ISRO)
+* 🤖 **Deep Learning** – CNNs, LSTMs, ViTs, Reinforcement Learning
+* 📈 **AI for Finance** – Trading strategies, Genetic Algorithms, Genetic Programming, Forecasting Models
+* 🧬 **Evolutionary Computation** – GAs, GP, optimisation frameworks
+* 🌐 **Full‑Stack Development** – React, Next.js, scalable web applications
+* 📱 **Android Development** – Kotlin, Jetpack Compose, Room
+* 🛰️ **Automation & Space Technology** – Research aligned toward intelligent systems for NASA/ISRO‑oriented applications
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Algorithmic Trading Strategy with LSTM + Genetic Algorithms (R)
+### 🔹 Algorithmic Trading with LSTM + Genetic Algorithms (R)
 
-A hybrid financial model combining LSTMs for forecasting and GAs for portfolio optimisation.
+A hybrid financial modelling framework integrating LSTMs for time‑series forecasting with Genetic Algorithms for portfolio optimisation.
 
-### 🔹 Multi‑Stock RL Trading System (Python)
+### 🔹 Multi‑Stock Reinforcement Learning Trading System (Python)
 
-CNN‑LSTM state encoder + PPO agent for trading multiple tickers using Alpaca API.
+A trading agent using CNN‑LSTM feature extraction and PPO reinforcement learning, trained on market data via the Alpaca API.
 
-### 🔹 Fitness Tracking App (Android)
+### 🔹 Fitness Tracking Application (Android)
 
-Tracks workouts, integrates ExerciseDB API, handles schedules, timers, and full CRUD via Room.
+A complete scheduling and workout‑tracking system built with Jetpack Compose, Room Database, ExerciseDB API integration, and custom timers.
 
-### 🔹 Neural Style Transfer (Research)
+### 🔹 Neural Style Transfer Research
 
-Presented at MRC‑2023; implemented custom NST pipeline.
+Designed and implemented a custom NST model; presented at **MRC‑2023**.
 
-### 🔹 Chatbot Project (Mini Project)
+### 🔹 Custom Chatbot System
 
-A fully customised rule‑based + ML‑enhanced chatbot.
+A rule‑based and ML‑enhanced chatbot developed as part of my undergraduate project.
 
 ---
 
@@ -63,23 +63,23 @@ Python • R • Kotlin • Java • JavaScript • TypeScript • SQL
 
 ### **Frameworks & Tools:**
 
-PyTorch • Keras • TensorFlow • R (quantmod, GA, gramEvol, neuralnet) • LangChain • React • Next.js • Jetpack Compose • Room • Git • Docker
+PyTorch • Keras • TensorFlow • LangChain • React • Next.js • Jetpack Compose • Room • Docker • Git
+R Packages: quantmod • GA • gramEvol • neuralnet
 
-### **Specialties:**
+### **Domains:**
 
-Machine Learning • Portfolio Optimisation • Time‑Series Forecasting • LLM Agents • GA/GP • Neural Networks
+Machine Learning • Time‑Series Forecasting • Portfolio Optimisation • Evolutionary Algorithms • LLM‑based Automation
 
 ---
 
 ## 📫 Contact Me
 
-* 📩 Email: **[himanshu_201900238@smit.smu.edu.in](mailto:himanshu_201900238@smit.smu.edu.in)**
-* 🌐 LinkedIn: *(add your link here)*
-* 🐙 GitHub: *you’re already here 👀*
+* 📩 Email: **[himanshu.kashyap.79@outlook.com](mailto:himanshu.kashyap.79@outlook.com)**
+* 🌐 LinkedIn: *(Add your LinkedIn URL here)*
+* 🐙 GitHub: *You’re already here.*
 
 ---
 
-## ⭐ If you like my work...
+## ⭐ Support
 
-Feel free to star ⭐ my repositories or connect with me. Let’s build cool things together!
-
+If you find my work useful, feel free to star ⭐ repositories or connect with me. I’m always open to collaboration and new ideas.
